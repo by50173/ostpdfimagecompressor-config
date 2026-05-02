@@ -1,8 +1,8 @@
 {
-  "latestVersion": "1.5",
-  "minVersion": "1.0",
-  "maintenanceMode": true,
-  "forceUpdate": false,
+  "latestVersion": "1.4",
+  "minVersion": "1.4",
+  "maintenanceMode": false,
+  "forceUpdate": true,
   "updateUrl": "https://github.com/50173/OST_PDF_IMAGE_COMPRESSOR/releases/latest",
   "message": ""
 }
